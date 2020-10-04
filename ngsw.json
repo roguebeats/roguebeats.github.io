@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1601839549847,
+  "index": "https://roguebeats.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://roguebeats.github.io/5-es2015.5619773ef1a075cc74c2.js",
+        "https://roguebeats.github.io/5-es5.5619773ef1a075cc74c2.js",
+        "https://roguebeats.github.io/favicon.ico",
+        "https://roguebeats.github.io/index.html",
+        "https://roguebeats.github.io/main-es2015.2fa59b7bfaa77fe03e30.js",
+        "https://roguebeats.github.io/main-es5.2fa59b7bfaa77fe03e30.js",
+        "https://roguebeats.github.io/manifest.webmanifest",
+        "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js",
+        "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js",
+        "https://roguebeats.github.io/runtime-es2015.d46fc845f3b98394ee6e.js",
+        "https://roguebeats.github.io/runtime-es5.d46fc845f3b98394ee6e.js",
+        "https://roguebeats.github.io/styles.86111dd9f978902f0519.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://roguebeats.github.io/assets/icons/icon-128x128.png",
+        "https://roguebeats.github.io/assets/icons/icon-144x144.png",
+        "https://roguebeats.github.io/assets/icons/icon-152x152.png",
+        "https://roguebeats.github.io/assets/icons/icon-192x192.png",
+        "https://roguebeats.github.io/assets/icons/icon-384x384.png",
+        "https://roguebeats.github.io/assets/icons/icon-512x512.png",
+        "https://roguebeats.github.io/assets/icons/icon-72x72.png",
+        "https://roguebeats.github.io/assets/icons/icon-96x96.png",
+        "https://roguebeats.github.io/assets/images/rogue-beats-white.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://roguebeats.github.io/5-es2015.5619773ef1a075cc74c2.js": "164eaa1d1f87a4dbf48f1230fb1414fb1f8ea250",
+    "https://roguebeats.github.io/5-es5.5619773ef1a075cc74c2.js": "cf1cd2f1fea27cde701688cb94c28a5a4d7d1c17",
+    "https://roguebeats.github.io/assets/icons/icon-128x128.png": "63e560128ff64258fe8ef14d0d5e092089379cc1",
+    "https://roguebeats.github.io/assets/icons/icon-144x144.png": "77098867334a0cc1ff405f73134347b75facea38",
+    "https://roguebeats.github.io/assets/icons/icon-152x152.png": "84bc1ba8a8072fb93396cc38e1d8d2014b7ce0f1",
+    "https://roguebeats.github.io/assets/icons/icon-192x192.png": "801b9d3f6315b5f9de3119f75295a11e9f6432b2",
+    "https://roguebeats.github.io/assets/icons/icon-384x384.png": "fb768230d9fdd48d2469546912f4cdbb71593237",
+    "https://roguebeats.github.io/assets/icons/icon-512x512.png": "f5217fd3931e0c4e07f949807860adfa91b61e59",
+    "https://roguebeats.github.io/assets/icons/icon-72x72.png": "0a0aa5581c1832dbf3c5fb0bdcc888f36ecba922",
+    "https://roguebeats.github.io/assets/icons/icon-96x96.png": "bbad2f94da94bbc0c4d4a1663a542c9017fe5e8d",
+    "https://roguebeats.github.io/assets/images/rogue-beats-white.png": "4f8a45fbbdba11260a93a7a7c42e5a8752a153ca",
+    "https://roguebeats.github.io/favicon.ico": "2669943b0b0bd9ed7f51f5b40fa957b2b1c1555a",
+    "https://roguebeats.github.io/index.html": "0230bc1677ee16410d73c6fc75b629c8c52151e3",
+    "https://roguebeats.github.io/main-es2015.2fa59b7bfaa77fe03e30.js": "0cbdc2fb56cf6563de5e548ea5abf540c32e1f40",
+    "https://roguebeats.github.io/main-es5.2fa59b7bfaa77fe03e30.js": "ee6b749309d81191c4c35214daa3f2f561e7522f",
+    "https://roguebeats.github.io/manifest.webmanifest": "dcac3a2f0e500c0136e618f5c2ad907015d5a9db",
+    "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
+    "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js": "555ae20709fc53cf4053c1410cf54c54dbedda64",
+    "https://roguebeats.github.io/runtime-es2015.d46fc845f3b98394ee6e.js": "7438645cb2420928cf5503f0ed4cdbd2f715c223",
+    "https://roguebeats.github.io/runtime-es5.d46fc845f3b98394ee6e.js": "bec73f21af7ea9c786b4eaea5a24d43bfefc3ca0",
+    "https://roguebeats.github.io/styles.86111dd9f978902f0519.css": "847fb094f4f22bb2dda421cd247d58f520bf7a8b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

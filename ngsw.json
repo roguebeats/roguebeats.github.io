@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601911458237,
+  "timestamp": 1601945536531,
   "index": "https://roguebeats.github.io/index.html",
   "assetGroups": [
     {
@@ -15,8 +15,8 @@
         "https://roguebeats.github.io/5-es5.5619773ef1a075cc74c2.js",
         "https://roguebeats.github.io/favicon.ico",
         "https://roguebeats.github.io/index.html",
-        "https://roguebeats.github.io/main-es2015.3fee9d6bd53b013fb975.js",
-        "https://roguebeats.github.io/main-es5.3fee9d6bd53b013fb975.js",
+        "https://roguebeats.github.io/main-es2015.071a21db262eeb817bb4.js",
+        "https://roguebeats.github.io/main-es5.071a21db262eeb817bb4.js",
         "https://roguebeats.github.io/manifest.webmanifest",
         "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js",
         "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js",
@@ -61,9 +61,9 @@
     "https://roguebeats.github.io/assets/icons/icon-96x96.png": "bbad2f94da94bbc0c4d4a1663a542c9017fe5e8d",
     "https://roguebeats.github.io/assets/images/rogue-beats-white.png": "4f8a45fbbdba11260a93a7a7c42e5a8752a153ca",
     "https://roguebeats.github.io/favicon.ico": "2669943b0b0bd9ed7f51f5b40fa957b2b1c1555a",
-    "https://roguebeats.github.io/index.html": "0f00c336dd1822f31c9b0c547cd046f224519b65",
-    "https://roguebeats.github.io/main-es2015.3fee9d6bd53b013fb975.js": "991d2e670e6187d62e330c3a09672bc78eafd15f",
-    "https://roguebeats.github.io/main-es5.3fee9d6bd53b013fb975.js": "f595d5b5b0101b1ee846c4169f3e00240e8efcc6",
+    "https://roguebeats.github.io/index.html": "a602040db558f349836511a0c0e547ce93add548",
+    "https://roguebeats.github.io/main-es2015.071a21db262eeb817bb4.js": "432a49261113c105c9f2b4e1054151ee850715b1",
+    "https://roguebeats.github.io/main-es5.071a21db262eeb817bb4.js": "498ff2bfb2e377ac8819847747a7540d607e17ea",
     "https://roguebeats.github.io/manifest.webmanifest": "31b244fc658d9fdf62b1d42d26d727e94dbf9be5",
     "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
     "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js": "555ae20709fc53cf4053c1410cf54c54dbedda64",

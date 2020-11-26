@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605303090639,
+  "timestamp": 1606433211498,
   "index": "https://roguebeats.github.io/index.html",
   "assetGroups": [
     {
@@ -15,11 +15,11 @@
         "https://roguebeats.github.io/5-es5.50a0bdedf1eff9f8e18e.js",
         "https://roguebeats.github.io/favicon.ico",
         "https://roguebeats.github.io/index.html",
-        "https://roguebeats.github.io/main-es2015.842494d5feacd06819b7.js",
-        "https://roguebeats.github.io/main-es5.842494d5feacd06819b7.js",
+        "https://roguebeats.github.io/main-es2015.06b5706eb813e3492d2e.js",
+        "https://roguebeats.github.io/main-es5.06b5706eb813e3492d2e.js",
         "https://roguebeats.github.io/manifest.webmanifest",
         "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js",
-        "https://roguebeats.github.io/polyfills-es5.7d8dccfb75dcbf55fb14.js",
+        "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js",
         "https://roguebeats.github.io/runtime-es2015.21b227c433f6b1e9f3c9.js",
         "https://roguebeats.github.io/runtime-es5.21b227c433f6b1e9f3c9.js",
         "https://roguebeats.github.io/styles.bb482e179377708d74bb.css"
@@ -65,12 +65,12 @@
     "https://roguebeats.github.io/assets/images/Spotify_Icon_RGB_Green.png": "3f5307bc3f8e6eaf876598d93b353dba861d6964",
     "https://roguebeats.github.io/assets/images/rogue-beats-white.png": "4f8a45fbbdba11260a93a7a7c42e5a8752a153ca",
     "https://roguebeats.github.io/favicon.ico": "2669943b0b0bd9ed7f51f5b40fa957b2b1c1555a",
-    "https://roguebeats.github.io/index.html": "ad10bd15ec821a59c65afd5dbf443c38599d5b60",
-    "https://roguebeats.github.io/main-es2015.842494d5feacd06819b7.js": "e43840ce8b9e4fba09fcb4e7375b9c316a007d31",
-    "https://roguebeats.github.io/main-es5.842494d5feacd06819b7.js": "3f380b8d52ef450d2e0303c497d12b2aad0e91c0",
-    "https://roguebeats.github.io/manifest.webmanifest": "31b244fc658d9fdf62b1d42d26d727e94dbf9be5",
+    "https://roguebeats.github.io/index.html": "b967bebbaa1c2267b120dbfa53119ab1a5bc80cd",
+    "https://roguebeats.github.io/main-es2015.06b5706eb813e3492d2e.js": "339b2b90e38d2c0a35487a022b0ca833c832f911",
+    "https://roguebeats.github.io/main-es5.06b5706eb813e3492d2e.js": "24e22dabbc7d780974ff3c3db1f7320b05f0ce33",
+    "https://roguebeats.github.io/manifest.webmanifest": "d821fed86877557899e98b55c1ff40ac93254ddb",
     "https://roguebeats.github.io/polyfills-es2015.771b3b3db401876b1a61.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
-    "https://roguebeats.github.io/polyfills-es5.7d8dccfb75dcbf55fb14.js": "555ae20709fc53cf4053c1410cf54c54dbedda64",
+    "https://roguebeats.github.io/polyfills-es5.547f2534b484cc79ed5a.js": "555ae20709fc53cf4053c1410cf54c54dbedda64",
     "https://roguebeats.github.io/runtime-es2015.21b227c433f6b1e9f3c9.js": "e669786b37d4691f8368ffcc97c9bd1b5e067cd4",
     "https://roguebeats.github.io/runtime-es5.21b227c433f6b1e9f3c9.js": "0e4f5eba5d35769e3234cd6a8eb35bace51873b8",
     "https://roguebeats.github.io/styles.bb482e179377708d74bb.css": "741b327b0c3c38369a6b839305b9b0f62cdce5ef"

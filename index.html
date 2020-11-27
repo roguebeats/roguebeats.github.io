@@ -1,21 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8"/>
+
+<head>
+    <meta charset="utf-8" />
+    </meta>
     <title>RogueBeats</title>
     <base href="https://roguebeats.github.io/">
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&amp;display=swap" rel="stylesheet">
 
-    <script defer="" src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
-    <script defer="" src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    <script defer="" src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js"
+        integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ"
+        crossorigin="anonymous"></script>
+    <script defer="" src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js"
+        integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY"
+        crossorigin="anonymous"></script>
     <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#1976d2">
-  <link rel="apple-touch-icon" href="assets/icons/icon-180x180.png" >
+    <meta name="theme-color" content="#1976d2">
+    <link rel="apple-touch-icon" href="assets/icons/icon-180x180.png">
 <link rel="stylesheet" href="styles.bb482e179377708d74bb.css"></head>
-  <body>
+
+<body>
+    <script>
+        (function () {
+            // Retrieve the URL the user was trying to access when receiving the 404.
+            let redirect = sessionStorage.redirect;
+            // Remove the URL from sessionStorage.
+            delete sessionStorage.redirect;
+            // Check if we actually need to redirect.
+            if (redirect && redirect != location.href) {
+                // We need to redirect to the URL the user was trying to access.
+                history.replaceState(null, null, redirect);
+            }
+        })();
+    </script>
     <rbc-root></rbc-root>
     <noscript>Please enable JavaScript to continue using this application.</noscript>
 <script src="runtime-es2015.21b227c433f6b1e9f3c9.js" type="module"></script><script src="runtime-es5.21b227c433f6b1e9f3c9.js" nomodule defer></script><script src="polyfills-es5.547f2534b484cc79ed5a.js" nomodule defer></script><script src="polyfills-es2015.771b3b3db401876b1a61.js" type="module"></script><script src="main-es2015.06b5706eb813e3492d2e.js" type="module"></script><script src="main-es5.06b5706eb813e3492d2e.js" nomodule defer></script></body>
+
 </html>

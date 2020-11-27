@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606433211498,
+  "timestamp": 1606435237056,
   "index": "https://roguebeats.github.io/index.html",
   "assetGroups": [
     {
@@ -65,7 +65,7 @@
     "https://roguebeats.github.io/assets/images/Spotify_Icon_RGB_Green.png": "3f5307bc3f8e6eaf876598d93b353dba861d6964",
     "https://roguebeats.github.io/assets/images/rogue-beats-white.png": "4f8a45fbbdba11260a93a7a7c42e5a8752a153ca",
     "https://roguebeats.github.io/favicon.ico": "2669943b0b0bd9ed7f51f5b40fa957b2b1c1555a",
-    "https://roguebeats.github.io/index.html": "b967bebbaa1c2267b120dbfa53119ab1a5bc80cd",
+    "https://roguebeats.github.io/index.html": "a045e8eda99c7bb8f73e847cd69e38343324a995",
     "https://roguebeats.github.io/main-es2015.06b5706eb813e3492d2e.js": "339b2b90e38d2c0a35487a022b0ca833c832f911",
     "https://roguebeats.github.io/main-es5.06b5706eb813e3492d2e.js": "24e22dabbc7d780974ff3c3db1f7320b05f0ce33",
     "https://roguebeats.github.io/manifest.webmanifest": "d821fed86877557899e98b55c1ff40ac93254ddb",
